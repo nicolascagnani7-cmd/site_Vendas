@@ -1,0 +1,51 @@
+[
+    {
+        "produtos":{
+            "prod123": "Macbook",
+            "prod124": "Ipad",
+            "prod125": "Iphone",
+            "prod126": "Airpods",
+            "prod127": "Apple watch"
+
+        }
+    },
+
+    {
+        "vendendor": {
+            "vend456" : "Vendedor - Locutor",
+            "vend457" : "Vendedor - Liminha",
+            "vend458" : "Vendedor - Spike",
+            "vend459" : "Vendedor - Mega-cavaleiro",
+            "vend460" : "Vendedor - Goku"
+
+        }
+        },
+    {
+        "preco": {
+            "preco123" :"20.000",
+            "preco124" :"14.000",
+            "preco125" :"3.500",
+            "preco126" :"6.000",
+            "preco127" :"4.000"
+        }
+    },
+    {
+        "imagemProdutos": {
+            "imag001" : "<img src='macbook.jpg' width= '300px'>",
+            "imag002" : "<img src='ipad.jpg' width= '300px'>",
+            "imag003" : "<img src='iphone.jpg' width= '300px'>",
+            "imag004" : "<img src='fone.jpg' width= '300px'>",
+            "imag005" : "<img src='relogio.jpg' width= '300px'>"
+
+        }
+        },
+        {
+        "cliente": {
+            "cli789" : "Cliente - Jair Bolsonaro",
+            "cli790" : "Cliente - Osmar",
+            "cli791" : "Cliente - Simas Turbo",
+            "cli792" : "Cliente - Cleide",
+            "cli793" : "Cliente - Big-Mac"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+h1{
+
+    background-color: rgba(37, 37, 37);
+    color: brown;
+}
+h2{
+    background-color: rgb(37, 37, 37);
+    color: brown;
+}
+body{
+    background-color: rgb(70, 70, 70);
+    color: rgb(253, 253, 253);
+}
+.preco:hover{
+    color: rgb(255, 0, 0);
+}
+button:hover{
+    opacity: 0;
+
+}
